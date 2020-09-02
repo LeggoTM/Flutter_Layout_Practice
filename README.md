@@ -1,6 +1,6 @@
 # Layout Practice
 
-A new Flutter project.
+A new Flutter project to learn flutter from [Ovidius Mazuru's](https://www.youtube.com/channel/UCJW25d8mW8ciz0DQC-5XNsQ/videos) youtube channel.
 
 ![Screenshot](/screenshot/Screenshot_20200902-093936655.png)
 
